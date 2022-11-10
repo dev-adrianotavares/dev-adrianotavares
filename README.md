@@ -1,5 +1,7 @@
 ### Olá, eu sou o Adriano, seja bem-vindo(a)!
 
+<img align="center" alt="Adriano-WP" width="100%" src="https://media.tenor.com/IeXeDuvMYPEAAAAd/no.gif">
+
 - 🔭 Atualmente, tenho a possibilidade de trabalhar como desenvolvedor front-end, utilizando a linguagem JavaScript.
 - 🌱 Estou aprendendo back-end na @Trybe
 - 😄 Pronomes: Ele/dele
