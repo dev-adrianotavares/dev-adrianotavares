@@ -2,9 +2,8 @@
 
 <img align="center" alt="Adriano-WP" width="100%" src="https://media.tenor.com/IeXeDuvMYPEAAAAd/no.gif">
 
-- 🔭 Atualmente, tenho a possibilidade de trabalhar como desenvolvedor front-end, utilizando a linguagem JavaScript.
-- 🌱 Estou aprendendo back-end na @Trybe
-- 😄 Pronomes: Ele/dele
+- 🔭 Atualmente, tenho a possibilidade de trabalhar como desenvolvedor front-end ou backend, utilizando as linguagens JavaScript e TypeScript.
+- 🌱 Desenvolvedor FullStack formado pela <a href="https://www.betrybe.com/" target="_blank">Trybe</a>
 
 <div align="center">
   <a href="https://github.com/dev-adrianotavares">
