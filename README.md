@@ -12,7 +12,7 @@
 </div>
   
   ##
-  <h2> Minhas Skills </h2>
+  <h2> Tecnologias </h2>
   <div style="display: inline_block"><br>
   <img align="center" alt="Adriano-JS-Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Adriano-React-Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
